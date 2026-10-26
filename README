@@ -1,0 +1,52 @@
+# Python Code Refactoring
+
+## Project Overview
+
+This project demonstrates how to improve messy Python code by making it cleaner, more readable, and easier to maintain.
+
+## Files
+
+* `messy_code.py` — Original student marks program.
+* `refactored_code.py` — Improved version of the program.
+
+## Features
+
+* Accepts a student's name.
+* Takes marks for three subjects.
+* Validates marks between 0 and 100.
+* Handles invalid numeric input.
+* Calculates total and average marks.
+* Uses functions to organize the code.
+
+## How to Run
+
+Make sure Python is installed.
+
+Run the original program:
+
+```bash
+python messy_code.py
+```
+
+Run the refactored program:
+
+```bash
+python refactored_code.py
+```
+
+## Sample Output
+
+```text
+--- Student Result ---
+Student: Pranjali
+Total marks: 255.0
+Average marks: 85.0
+```
+
+## Learning Outcomes
+
+* Understanding functions in Python.
+* Improving code readability.
+* Handling invalid input.
+* Using meaningful variable names.
+* Avoiding repeated calculations.
